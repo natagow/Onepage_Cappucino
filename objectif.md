@@ -9,7 +9,7 @@
 **Sous objectifs bonus**
 Partir sur un site au design de couleur chaude et des images appaissantes, le but premier étant d'informer et rassurer aussi le public ciblé.
 Prendre certaines images en background se basant sur le thème de la famille.
-Garder l'arbre (le tamaris)[http://www.gerbeaud.com/jardin/fiches/tamaris.php] et partir sur un thème arbuste avec des couleurs designs automne.
+Garder l'arbre !(le tamaris)[http://www.gerbeaud.com/jardin/fiches/tamaris.php] et partir sur un thème arbuste avec des couleurs designs automne.
 Bien garder les textes d'origine   
 
   + Element qui doit apparaître sur le one page :
