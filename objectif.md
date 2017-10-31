@@ -1,5 +1,7 @@
 #Résumé du one page
 
+![tamaris](http://img.deco.fr/029E017005924076-c1-photo-oYToxOntzOjE6InciO2k6NjcwO30%3D-tamaris.jpg)
+
 **Les objectifs**
 
 + *Numéro 1* :  Créer uniquement un one page du site (Pas de deuxième page ou de lien cliquable).
