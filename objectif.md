@@ -4,7 +4,7 @@
 
 **Les objectifs**
 
-+ *Numéro 1* :  Créer uniquement un one page du site (Pas de deuxième page ou de lien cliquable).
++ *Numéro 1* :  Créer uniquement un one page du site (Pas de deuxième page ou de lien cliquable). (Done)
 + *Numéro 2* : Le tester sur lighthouse.
 + *Numéro 3* : Le rendre accessible à tous
 
