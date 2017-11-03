@@ -5,8 +5,8 @@
 **Les objectifs**
 
 + *Numéro 1* :  Créer uniquement un one page du site (Pas de deuxième page ou de lien cliquable). (Done)
-+ *Numéro 2* : Le tester sur lighthouse.
-+ *Numéro 3* : Le rendre accessible à tous
++ *Numéro 2* : Le tester sur lighthouse. (done)
++ *Numéro 3* : Le rendre accessible à tous (done)
 
 **Sous objectifs bonus**
 Partir sur un site au design de couleur chaude et des images appaissantes, le but premier étant d'informer et rassurer aussi le public ciblé.
