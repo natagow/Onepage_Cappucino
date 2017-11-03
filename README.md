@@ -2,6 +2,8 @@
 
 *[Projet](https://natagow.github.io/Onepage_Letamaris/) Caritatif de :*
 
+[Projet final](https://natagow.github.io/Onepage_Letamaris/)
+
 __Letamaris-cas.be__
 
 __41 avenue Edouard de Thibault 1040 Bruxelles__
